@@ -1,4 +1,4 @@
-# Student Dropout Prediction using Deep Learning
+## Student Dropout Prediction using Deep Learning
 
 This project applies **deep learning** techniques to predict **student academic outcomes** (Graduate vs. Dropout) using a **Multi-Layer Perceptron (MLP)** model in **TensorFlow/Keras**. The goal is to support retention strategies by identifying students at risk early.
 
