@@ -4,8 +4,6 @@ This project applies **deep learning** techniques to predict **student academic 
 
 ## Overview
 
-As a data science and deep learning enthusiast, I worked on:
-
 - **Data preprocessing**: Handled dataset with **categorical, binary, and numerical features**
 - **Feature engineering**: Used embeddings for high-cardinality categories, normalized continuous features, and processed binary inputs efficiently
 - **Model design**: Built a functional API-based MLP model with embedding layers, normalization, and dense layers with L2 regularization
